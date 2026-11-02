@@ -1,7 +1,7 @@
 ## Hallo, ich bin Artjan 👋
 
 **Senior Software Engineer C# / .NET** aus der Schweiz (Aargau) – Full-Stack mit ASP.NET Core, Blazor, Angular/React und .NET MAUI.
-Seit 2025 bei twofold AG als Software Engineer und Berufsbildner Applikationsentwicklung: 15 Lernende ausgebildet, davon 3 mit Bestnoten.
+Seit 2025 bei twofold AG als Software Engineer und Berufsbildner Applikationsentwicklung: fachliche Leitung von 15 Lernenden, davon 3 mit Bestnoten abgeschlossen.
 
 - 🎓 Eidg. dipl. Informatiker HF Applikationsentwicklung · berufsbegleitend BSc Cyber Security (FFHS)
 - 🏗️ Clean Architecture, REST-APIs, CI/CD mit Azure DevOps und GitHub Actions, Docker
