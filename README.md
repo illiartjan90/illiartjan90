@@ -10,11 +10,11 @@ Seit 2025 bei twofold AG als Software Engineer und Berufsbildner Applikationsent
 
 ### Tech-Stack
 
-**Backend:** C#, .NET 10, ASP.NET Core, Web API, Entity Framework Core, ASP.NET Web Forms, Node.js, PHP/Laravel
-**Frontend & Mobile:** Blazor, Angular, React, TypeScript, .NET MAUI
-**Daten:** SQL Server, MySQL, SQLite, MongoDB
-**DevOps:** Azure, Azure DevOps, GitHub Actions, Docker, Linux/Bash
-**Testing:** MSTest, Unit-Tests, Usability-Tests
+- **Backend:** C#, .NET 10, ASP.NET Core, Web API, Entity Framework Core, ASP.NET Web Forms, Node.js, PHP/Laravel
+- **Frontend & Mobile:** Blazor, Angular, React, TypeScript, .NET MAUI
+- **Daten:** SQL Server, MySQL, SQLite, MongoDB
+- **DevOps:** Azure, Azure DevOps, GitHub Actions, Docker, Linux/Bash
+- **Testing:** MSTest, Unit-Tests, Usability-Tests
 
 ### Ausgewählte Projekte
 
@@ -27,4 +27,5 @@ Seit 2025 bei twofold AG als Software Engineer und Berufsbildner Applikationsent
 ### Kontakt
 
 [LinkedIn](https://www.linkedin.com/in/artjan-illi-20a943116/) · artjanilli@gmail.com
+
 Offen für neue Herausforderungen als Senior .NET Engineer – Festanstellung oder als Mandat.
